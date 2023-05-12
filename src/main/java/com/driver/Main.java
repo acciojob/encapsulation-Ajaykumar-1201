@@ -4,8 +4,8 @@ public class Main {
     RWOnly obj = new RWOnly();
 
     // Set the value of "name"
-        obj.setName("John");
+        obj.setName("Ajay");
 
     // Get the value of "name" and print it
-        System.out.println(obj.getName());
+        String name = obj.getName();
 }
